@@ -1,0 +1,50 @@
+<wpml-config>
+	<admin-texts>
+		<key name="event_theme_options">
+			<key name="event_search_text" />
+			<key name="event_tag_text" />
+			<key name="event-img-upload-footer-image" />
+			<key name="event-footer-title" />
+			<key name="event-footer-link" />
+			<key name="event_tag_text" />
+			<key name="event_secondary_text" />
+			<key name="event_title" />
+			<key name="event_venue" />
+			<key name="event_book_appointment" />
+			<key name="event_book_appointment_url" />
+			<key name="event_features_title" />
+			<key name="event_features_description" />
+			<key name="event_upcoming_title" />
+			<key name="event_upcoming_bg_image" />
+			<key name="event_our_speaker_title" />
+			<key name="event_our_speaker_description" />
+			<key name="event_program_schedule_title" />
+			<key name="event_program_schedule_description" />
+			<key name="event_program_schedule_bg_image" />
+			<key name="event_our_gallery_title" />
+			<key name="event_our_gallery_description" />
+			<key name="event_our_testimonial_title" />
+			<key name="event_our_testimonial_bg_image" />
+			<key name="event_our_speaker_position_1" />
+			<key name="event_our_speaker_position_2" />
+			<key name="event_our_speaker_position_3" />
+			<key name="event_our_speaker_position_4" />
+			<key name="event_our_speaker_position_5" />
+			<key name="event_our_speaker_position_6" />
+			<key name="event_our_speaker_position_7" />
+			<key name="event_our_speaker_position_8" />
+			<key name="event_our_speaker_position_9" />
+			<key name="event_our_speaker_position_10" />
+			<key name="event_our_speaker_about_1" />
+			<key name="event_our_speaker_about_2" />
+			<key name="event_our_speaker_about_3" />
+			<key name="event_our_speaker_about_4" />
+			<key name="event_our_speaker_about_5" />
+			<key name="event_our_speaker_about_6" />
+			<key name="event_our_speaker_about_7" />
+			<key name="event_our_speaker_about_8" />
+			<key name="event_our_speaker_about_9" />
+			<key name="event_our_speaker_about_10" />
+		</key>
+	</admin-texts>
+</wpml-config>
