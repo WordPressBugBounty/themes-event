@@ -1,10 +1,10 @@
 === Event ===
 Contributors: themefreesia
 Tags: threaded-comments, right-sidebar, four-columns, custom-colors, custom-background, custom-header, custom-menu, editor-style, sticky-post, theme-options, translation-ready, post-formats, custom-logo, blog, e-commerce, news, portfolio
-Requires at least: 6.3
-Tested up to: 6.5
+Requires at least: 6.7
+Tested up to: 6.8.1
 Requires PHP: 5.6
-Stable tag: 1.2.4
+Stable tag: 1.2.5
 License: GNU General Public License version 3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -114,6 +114,9 @@ wpml-config.xml is used to support multilangual plugins such and wpml, polylang.
 =================================================================================
 
 == CHANGE LOG ==
+= 1.2.5 =
+	- Update - Tested with latest version of WordPress
+
 = 1.2.4 =
 	- Update - Font icons updated in blog and single page
 
